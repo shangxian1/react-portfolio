@@ -3,7 +3,7 @@ import React from 'react';
 const unifiedData = [
 ];
 
-export default function Experience() {
+export default function Timeline() {
   return (
     <div className="max-w-3xl">
       <div className="relative border-l border-white/10 ml-3">

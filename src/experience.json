@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "role": "Software Engineer Intern",
+    "type": "Internship",
+    "org": "Murata Electronics Singapore",
+    "date": "Mar 2025 — Aug 2025",
+    "intro": "During my internship at Murata Electronics Singapore (MES), I had the opportunity to work on Power BI and Robotic Process Automation (RPA) projects, contributing to process improvement and data-driven decision making within the organization.",
+    "highlights": [
+      "Applied my knowledge acquired through academic studies in RPA and data analysis (Power BI) in the digital workplace by supporting company projects and contributing to digital transformation initiatives.",
+      "Supported users in RPA and Power BI projects by providing troubleshooting assistance and debugging their workflows to ensure smooth execution.",
+      "Enhanced interpersonal and communication skills through active collaboration with cross-functional departments and regular progress reporting to stakeholders."
+    ],
+    "image": "/MES.jpeg"
+  },
+  {
+    "id": 2,
+    "role": "Student Volunteer",
+    "type": "NYP Open House 2025 and 2026",
+    "org": "Nanyang Polytechnic",
+    "date": "Jan 2025 and Jan 2026",
+    "intro": "I joined NYP Open House 2025 and 2026 as a student volunteer where I had the opportunity to represent my course (DIME) and engage with secondary school students, ITE students and parents. As a student volunteer, I explained the course structure, shared personal experiences and answered questions to help visitors gain a better understanding of the course curriculum and student life at NYP. This experience helped to strengthen my communication skills and my confidence in public speaking.",
+    "highlights": [
+      
+    ],
+    "image": "/openhouse.jpeg"
+  },
+  {
+    "id": 3,
+    "role": "Student Camper",
+    "type": "SEG Camp Elites 2024",
+    "org": "Nanyang Polytechnic",
+    "date": "Jun 2024",
+    "intro": "Joining camp elites not only allowed me to forge new friendships with my schoolmates while stepping out of my comfort zone, but also equipped me with essential leadership skills. Through team challenges and leadership tasks, I honed essential skills such as communication, collaboration, and decision-making.",
+    "highlights": [
+      
+    ],
+    "image": "/campelites.png"
+  }
+]
