@@ -41,5 +41,18 @@
             "HTML",
             "CSS"
         ]
+    },
+    {
+        "id":"CPMAD",
+        "title": "CleanerAirSG - Air Quality Monitoring mobile application",
+        "year": "2025",
+        "description": "CleanerAir SG is a location-based air quality monitoring mobile application designed to provide Singapore residents with personalised, real-time environmental insights using live public datasets from Data.gov.sg. The app displays key indicators such as PSI, PM2.5, temperature, and humidity through intuitive charts and status labels (Good / Moderate / Unhealthy), allowing users to easily understand current conditions in their selected neighbourhoods. Users can save frequently visited locations for quick access, receive tailored health advisories based on air quality levels, and configure alerts when conditions exceed safe thresholds. Built with Firebase Authentication and Firestore for secure user management and data storage, the project demonstrates my ability to integrate live APIs, manage real-time JSON data, design user-centric features, and transform raw environmental datasets into actionable insights that support informed decision-making and align with Singapore’s Smart Nation vision.",
+        "image": "/cleanerairsg.png",
+        "tools": [
+            "Firebase",
+            "Firestore",
+            "Flutter",
+            "Dart"
+        ]
     }
 ]
