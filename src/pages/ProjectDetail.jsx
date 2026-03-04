@@ -54,7 +54,7 @@ export default function ProjectDetail({ projectId, setView }) {
         {/* Feature Image */}
         <div className="rounded-lg overflow-hidden border border-white/10 shadow-2xl">
           <img
-            src={project.image}
+            src={`${import.meta.env.BASE_URL}${project.image}`}
             alt={project.title}
             className="w-full h-auto"
           />

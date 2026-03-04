@@ -71,7 +71,7 @@ export default function Experience() {
             {exp.image && (
               <div className="relative group">
                 <img
-                  src={exp.image}
+                  src={`${import.meta.env.BASE_URL}${exp.image}`}
                   alt={exp.org}
                   className="rounded-2xl border border-white/10 
                              transition-all duration-500 

@@ -15,7 +15,7 @@ export default function ProjectGrid({ setView }) {
             className="group cursor-pointer"
           >
             <div className="aspect-video overflow-hidden bg-zinc-900 border border-white/5 rounded-sm mb-4">
-              <img src={p.image} className="w-full h-full object-cover" />
+              <img src={`${import.meta.env.BASE_URL}${p.image}`} className="w-full h-full object-cover" />
             </div>
             <h3 className="text-white text-xl font-medium">{p.title}</h3>
             <p className="text-white text-sm mt-1">{p.category}</p>
