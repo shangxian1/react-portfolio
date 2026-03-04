@@ -1,5 +1,5 @@
-import Hero from '../components/hero';
-import ProjectGrid from '../components/projectgrid';
+import Hero from '../components/Hero';
+import ProjectGrid from '../components/ProjectGrid';
 import Timeline from '../components/Timeline.jsx';
 
 export default function Home() {
