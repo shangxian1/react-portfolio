@@ -1,0 +1,45 @@
+[
+    {
+        "id": "discoversg",
+        "title": "DiscoverSG - Infocomm System Project",
+        "year": "2026",
+        "description": "Developed a full-stack web application using React, MySQL and Express.js from scratch as a cross-disciplinary collaboration between the School of Engineering and the School of Business Management for the module Infocomm System Project. DiscoverSG is an AI-powered travel ecosystem tailored for the digital-native generation. Recognizing that Gen Z travelers often face information overload and fragmented planning tools, we engineered a centralized hub that consolidates the entire journey. Working in a team of five, we applied Scrum practices to guide our development process, including sprint planning, stand-up meetings, regular retrospectives and reviews, to improve the product continuously. Through this structured approach, I contributed to designing and developing a streamlined planning hub that integrates research, real-time routing, and group coordination into a single responsive web experience.",
+        "image": "/isp.jpg",
+        "tools": [
+            "React.js",
+            "Node.js",
+            "Express",
+            "MySQL",
+            "Gemini"
+        ],
+        "github": "https://github.com/shangxian1/discoversg_isp"
+    },
+    {
+        "id": "restaurant",
+        "title": "ChopeSeats",
+        "year": "2026",
+        "description": "Designed an online restaurant reservation application using PHP, HTML, CSS, mySQL & JavaScript/jQuery. Upon sketching the wireframes and sitemap on Adobe Illustrator, the website was built from the ground up. The website is also responsive to accommodate for mobile, tablet, and desktop layouts. The website allows user to create free accounts and login to reserve different restaurants. After booking, users then can choose to delete the reservation if it is within 2 days of the booking date. Users also can update their email and phone number. The website also features a search bar that allows users to search for the restaurants available for booking.",
+        "image": "/chopeseats.png",
+        "tools": [
+            "HTML",
+            "PHP",
+            "CSS",
+            "JavaScript/jQuery",
+            "MySQL"
+        ]
+    },
+    {
+        "id":"WAD",
+        "title": "MusicCloud - Spotify integrated Web Application",
+        "year": "2025",
+        "description": "MusicCloud is a full-stack web application that integrates the Spotify Web API and lyrics.ovh API to enable users to explore music seamlessly. Users can login, sign up for free accounts, create, customize, and manage their playlists with full CRUD functionality, while also collaborating with others on shared playlists for a more connected and engaging music discovery journey. This web application was developed using Express.js, JavaScript and MongoDB for the backend, HTML and CSS for the frontend",
+        "image": "/musiccloud.png",
+        "tools": [
+            "Express.js",
+            "MongoDB",
+            "JavaScript",
+            "HTML",
+            "CSS"
+        ]
+    }
+]
